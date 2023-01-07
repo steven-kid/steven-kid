@@ -4,13 +4,17 @@ I’m a uni student major in data science, currently learning algorithms and fro
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### 👨‍💻 Languages and Tools
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<code><img height="25" src="https://cdn.simpleicons.org/git/f05032"></code>
+<code><img height="25" src="https://cdn.simpleicons.org/vuedotjs/3cb280"></code>
+<code><img height="25" src="https://cdn.simpleicons.org/vite/646CFF"></code>
+<code><img height="25" src="https://cdn.simpleicons.org/javascript/F7DF1E"></code>
+<code><img height="25" src="https://cdn.simpleicons.org/react/61DAFB"></code>
+<code><img height="25" src="https://cdn.simpleicons.org/mysql/4479A1"></code>
+<code><img height="25" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"></code>
+<code><img height="25" src="https://cdn.simpleicons.org/visualstudiocode/22a7f2"></code>
+
+
 
 ### 🏆 Github Status
 ![steven-kid's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-kid&layout=compact&langs_count=10)
