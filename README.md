@@ -1,7 +1,7 @@
 ### 👋 Hey I'm Steven-kid
 I’m a uni student major in data science, currently learning algorithms and frontend-tech (vue)
 
-<img align="right" alt="GIF" src="./giph.gif" width="335" height="100%"/>
+<img align="right" alt="GIF" src="./giph.gif" width="435" height="100%"/>
 
 ### 👨‍💻 Languages and Tools
 
