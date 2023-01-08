@@ -1,13 +1,13 @@
 ### 👋 Hey I'm Steven-kid
 I’m a uni student major in data science, currently learning algorithms and frontend-tech (vue)
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 
 ### 👨‍💻 Languages and Tools
 
 <code><img height="25" src="https://cdn.simpleicons.org/git/f05032"></code>
-<code><img height="25" src="https://cdn.simpleicons.org/vuedotjs/3cb280"></code>
-<code><img height="25" src="https://cdn.simpleicons.org/vite/646CFF"></code>
+<code><img height="25" src="./Vue.png"></code>
+<code><img height="25" src="./vite.png"></code>
 <code><img height="25" src="https://cdn.simpleicons.org/javascript/F7DF1E"></code>
 <code><img height="25" src="https://cdn.simpleicons.org/react/61DAFB"></code>
 <code><img height="25" src="https://cdn.simpleicons.org/mysql/4479A1"></code>
