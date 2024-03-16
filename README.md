@@ -1,5 +1,5 @@
 ### 👋 Hey I'm Steven-kid
-I’m a uni student major in data science, currently learning algorithms and frontend-tech (vue)
+I’m a uni student major in big data technology, currently learning algorithms and web developemnt (React)
 
 <img align="right" alt="GIF" src="./code.gif" width="430" height="100%"/>
 
@@ -11,13 +11,14 @@ I’m a uni student major in data science, currently learning algorithms and fro
 <code><img height="25" src="https://cdn.simpleicons.org/mysql/4479A1"></code>
 <code><img height="25" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"></code>
 <code><img height="25" src="https://cdn.simpleicons.org/visualstudiocode/22a7f2"></code>
+<code><img height="25" src="https://cdn.simpleicons.org/next.js/000000"></code>
 <code><img height="25" src="./Vue.png"></code>
 <code><img height="25" src="./vite.png"></code>
 
 ### 🏆 Github Status
 ![steven-kid's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-kid&layout=compact&langs_count=10)
 
-### 🔚 2023 Goal
+### 🔚 2024 Goal
 In the effort to become a full-stack engineer and algorithm master
 
 ### 🔭 Get In Touch
